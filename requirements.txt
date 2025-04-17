@@ -1,0 +1,4 @@
+flask
+clickhouse-connect
+pandas
+PyJWT 
